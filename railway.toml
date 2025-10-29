@@ -1,0 +1,5 @@
+[build]
+# Optional file; Railway UI overrides are fine.
+
+[env]
+# Set VITE_API_BASE in the frontend service to point at the backend URL.
